@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "CitrouilleSymbolLibrary")(type "KiCad")(uri "${KIPRJMOD}/../../lib_sch/Citrouille90SymbolLibrary.kicad_sym")(options "")(descr ""))
-)
